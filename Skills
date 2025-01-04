@@ -52,7 +52,7 @@ Tab:AddButton({
        
    Tab:AddParagraph("Please Type An Correct Skill Names!","Credit Script: Sterling hub owner (dan)")
  
-   Tab:AddParagraph("How To Use For Domain?","You need atleast 1.2m money and 420 for domain skills")
+   Tab:AddParagraph("How To Use For Domain?","You need atleast 1.3m money and 420 for domain skills")
    
    Tab:AddParagraph("How To Use For Maximum?","You need atleast 600k-800k money and 420 Mastery for maximum skills")
    
